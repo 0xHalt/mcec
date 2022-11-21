@@ -1,0 +1,3 @@
+# minecraft-exploit-collection
+
+soon
